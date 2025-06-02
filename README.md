@@ -1,0 +1,1 @@
+Hello! Just make sure to change the output_folder variable with the folder you intend to save your figures in. If you don't need that, just erase that part of the code completely. Also, there is a boundary value alpha = 2.33, anything less that that turns the graph into a really strange stuff. Good luck!
