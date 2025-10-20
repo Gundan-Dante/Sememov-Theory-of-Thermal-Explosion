@@ -1,1 +1,7 @@
-Hello! Just make sure to change the output_folder variable with the folder you intend to save your figures in. If you don't need that, just erase that part of the code completely. Also, there is a boundary value alpha = 2.33, anything less that that turns the graph into a really strange stuff. Good luck!
+Hello! This is a simple code needed for investigation of combustion.
+
+This code utilizes Semenov Theory of Thermal Explosion.
+
+To learn more about the physics and thermodynamics part of the project, seek the pdf file.
+
+There are 2 same codes that use different solvers (integrators): ODE45 and ODE15s.
